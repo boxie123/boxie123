@@ -1,4 +1,6 @@
-### Hi there 👋
+### 路过的 Python 爱好者罢了。
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxie123&layout=compact)
 
 <!--
 **boxie123/boxie123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 摸摸头
+
+![motou](images/motou.gif)
