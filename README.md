@@ -1,22 +1,13 @@
+<a href="https://count.getloli.com/">
+  <img align="center" src="https://count.getloli.com/get/@boxie123?theme=rule34" alt="getloli" />
+</a>
+
 ### 路过的 Python 爱好者罢了。
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxie123&layout=compact)
-
-<!--
-**boxie123/boxie123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxie123&bg_color=151515&title_color=00a0ff&text_color=eeeeee&layout=compact" alt="Most Used Languages" />
+</a>
 
 ### 摸摸头
 
-![motou](images/motou.gif)
+<img align="center" src="images/motou.gif" alt="touch head" />
