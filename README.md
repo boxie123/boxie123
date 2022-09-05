@@ -1,7 +1,9 @@
 <img align="right" src="images/motou.gif" alt="touch head" width='200px' />
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@boxie123?theme=rule34" alt="getloli" />
+  <a href="https://count.getloli.com/">
+    <img src="https://count.getloli.com/get/@boxie123?theme=rule34" alt="getloli" />
+  </a>
 </div>
 <br />
 <div align="center">
@@ -14,7 +16,9 @@
 <h2 align="center"> 路过的 Python 爱好者罢了。</h2>
 
 <div align="center">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxie123&bg_color=151515&title_color=00a0ff&text_color=eeeee0&layout=compact" alt="Most Used Languages" />
+  <a href="https://boxie123.github.io/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxie123&bg_color=151515&title_color=00a0ff&text_color=eeeee0&layout=compact" alt="Most Used Languages" />
+  </a>
 </div>
 
 <h2 align="center"> 
@@ -23,17 +27,22 @@
 
 <!--START_SECTION:gomoku-->
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20moves-4-blue" alt="Total Moves" />
-  <img src="https://img.shields.io/badge/Completed%20games-0-brightgreen" alt="Completed games" />
-  <img src="https://img.shields.io/badge/Total%20players-1-orange" alt="Total Players" />
-</div>
+  <a href="https://img.shields.io/">
+    <img src="https://img.shields.io/badge/Total%20moves-4-blue" alt="Total Moves" />
+    <img src="https://img.shields.io/badge/Completed%20games-0-brightgreen" alt="Completed games" />
+    <img src="https://img.shields.io/badge/Total%20players-1-orange" alt="Total Players" />
+  </a>
+
 
 欢迎点进我的主页，点击空白格子下一步棋吧！
 
 
 It's the **black** team's turn to play. ![](/assets/black.png)
 
-[![Surrender](https://img.shields.io/badge/Surrender%20-%2348e3c9.svg?&style=for-the-badge&logoColor=white)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Csurrender&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+
+<a href="https://github.com/{{repo}}/issues/new?title=gomoku%7Csurrender&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.">
+    <img src="https://img.shields.io/badge/投降%20-%2348e3c9.svg?&style=plastic&logoColor=white" width='60px' alt="Surrender" />
+</a>
 
 
 
@@ -49,6 +58,7 @@ It's the **black** team's turn to play. ![](/assets/black.png)
 | 8 | [![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CA8&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CB8&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CC8&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CD8&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CE8&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CF8&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CG8&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CH8&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CI8&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |
 | 9 | [![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CA9&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CB9&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CC9&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CD9&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CE9&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CF9&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CG9&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CH9&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |[![](/assets/blank.png)](https://github.com/boxie123/boxie123/issues/new?title=gomoku%7Cdrop%7Cblack%7CI9&labels=gomoku&body=只需点击“Submit+new+issue”即可下棋！README将在大约30秒后更新。请不要更改issue标题哦.) |
 
+</div>
 
 **:alarm_clock: 最近的棋**
 | Team | Move | Made by |
