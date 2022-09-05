@@ -1,6 +1,8 @@
-![](https://img.shields.io/badge/Total%20moves-{{total_moves}}-blue)
-![](https://img.shields.io/badge/Completed%20games-{{completed_games}}-brightgreen)
-![](https://img.shields.io/badge/Total%20players-{{total_players}}-orange)
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20moves-{{total_moves}}-blue" alt="Total Moves" />
+  <img src="https://img.shields.io/badge/Completed%20games-{{completed_games}}-brightgreen" alt="Completed games" />
+  <img src="https://img.shields.io/badge/Total%20players-{{total_players}}-orange" alt="Total Players" />
+</div>
 
 欢迎点进我的主页，点击空白格子下一步棋吧！
 
@@ -37,14 +39,14 @@ It's the **{{color}}** team's turn to play. ![](/assets/{{color}}.png)
 {%-endif %} |{% endfor %}
 {% endfor %}
 
-**:alarm_clock: Most recent moves**
+**:alarm_clock: 最近的棋**
 | Team | Move | Made by |
 | ---- | ---- | ------- |
 {% for step in last_steps[:5]-%}
 | {{step.color}} | {{step.pos}} | [@{{step.user}}](https://github.com/{{step.user}}) |
 {% endfor %}
 
-**:trophy: Hall of Fame: Top 10 players with the most game winning moves :1st_place_medal:**
+**:trophy: 排行榜：前十名！:**
 | Player | Wins |
 | ------ | -----|
 {% for player, wins in top_wins-%}
