@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://count.getloli.com/">
-    <img src="https://count.getloli.com/get/@boxie123?theme=rule34" alt="getloli" />
+    <img src="https://count.getloli.com/get/@boxie123?theme=rule34" width='500px' alt="getloli" />
   </a>
 </div>
 <br />
