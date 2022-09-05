@@ -12,7 +12,7 @@ class GameError(Exception):
 
 
 class Game:
-    DIMENSION = 9
+    DIMENSION = 15
     INITIAL_STATE = [None] * (DIMENSION * DIMENSION)
     CHAR_MAP = {
         0: "o",
