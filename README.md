@@ -14,7 +14,7 @@
 <h2 align="center"> 路过的 Python 爱好者罢了。</h2>
 
 <div align="center">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxie123&bg_color=151515&title_color=00a0ff&text_color=eeeeee&layout=compact" alt="Most Used Languages" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxie123&bg_color=151515&title_color=00a0ff&text_color=eeeee0&layout=compact" alt="Most Used Languages" />
 </div>
 
 <h2 align="center"> 
