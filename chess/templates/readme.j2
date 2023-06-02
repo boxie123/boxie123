@@ -30,14 +30,14 @@ It's the **{{color}}** team's turn to play. ![](/assets/{{color}}.png)
 {% for i in range(dimension)-%}
 | {{i + 1}} | {% for j in range(dimension)-%}
 {%-if field[i][j] == 1-%}
-    ![](/assets/black.png)
+    ![](https://cdn.jsdelivr.net/gh/boxie123/boxie123/assets/black.png)
 {%-elif field[i][j] == 0-%}
-    ![](/assets/white.png)
+    ![](https://cdn.jsdelivr.net/gh/boxie123/boxie123/assets/white.png)
 {%-else-%}
     {%-if winner-%}
-    ![](/assets/blank.png)
+    ![](https://cdn.jsdelivr.net/gh/boxie123/boxie123/assets/blank.png)
     {%-else-%}
-    [![](/assets/blank.png)](https://github.com/{{repo}}/issues/new?title=gomoku%7Cdrop%7C{{ color }}%7C{{upper_alpha[j]}}{{i + 1}}&labels=gomoku&template=gomoku.md)
+    [![](https://cdn.jsdelivr.net/gh/boxie123/boxie123/assets/blank.png)](https://github.com/{{repo}}/issues/new?title=gomoku%7Cdrop%7C{{ color }}%7C{{upper_alpha[j]}}{{i + 1}}&labels=gomoku&template=gomoku.md)
     {%-endif-%}
 {%-endif %} |{% endfor %}
 {% endfor %}
