@@ -17,7 +17,7 @@
   <a href="https://boxie123.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxie123&bg_color=151515&title_color=00a0ff&text_color=eeeee0&layout=compact" alt="Most Used Languages" />
   </a>
-  <img align="right" src="images/motou.gif" alt="touch head" width='170px' />
+  <img align="right" src="https://cdn.jsdelivr.net/gh/boxie123/boxie123/images/motou.gif" alt="touch head" width='170px' />
 </div>
 
 <h2 align="center"> 
