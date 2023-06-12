@@ -4,11 +4,6 @@
   </a>
 </div>
 <br />
-<div align="center">
-  <a href="https://boxie123.github.io/">
-    <img src="https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
-  </a>
-</div>
 <br />
 
 <h2 align="center"> 路过的 Python 爱好者罢了。</h2>
