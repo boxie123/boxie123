@@ -56,7 +56,7 @@ class Game:
     def _pos_to_idx(self, pos: str) -> int:
         pos = pos.upper()
         try:
-            col, row = list(pos)
+            col, row = (pos[0], pos[1:])
             row = int(row) - 1
         except ValueError:
             raise GameError(f"Invalid pos: {pos}")
