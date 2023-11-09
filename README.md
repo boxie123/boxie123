@@ -5,16 +5,6 @@
 </div>
 <br />
 <br />
-
-<h2 align="center"> 路过的 Python 爱好者罢了。</h2>
-
-<div align="center">
-  <a href="https://boxie123.github.io/">
-    <img src="https://github-readme-stats-gules-rho-89.vercel.app/api/top-langs/?username=boxie123&theme=dracula&layout=compact" alt="Most Used Languages" />
-  </a>
-  <img align="right" src="https://cdn.jsdelivr.net/gh/boxie123/boxie123/images/motou.gif" alt="touch head" width='170px' />
-</div>
-
 <h2 align="center"> 
   <a href="https://zh.wikipedia.org/wiki/%E4%BA%94%E5%AD%90%E6%A3%8B">五子棋</a>
 </h2>
