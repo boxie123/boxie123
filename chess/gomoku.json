@@ -1,1 +1,1 @@
-{"turn": 1, "last_steps": [{"user": "RingingVolcano", "color": "black", "pos": "G8"}], "blacks": [111], "whites": [], "role": 0, "winner": null}
+{"turn": 2, "last_steps": [{"user": "test-qq-mail-bot", "color": "white", "pos": "A1"}, {"user": "RingingVolcano", "color": "black", "pos": "G8"}], "blacks": [111], "whites": [0], "role": 1, "winner": null}
